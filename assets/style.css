@@ -26,3 +26,10 @@
     border: 1px solid white;
     border-radius: 10px;
 }
+
+.primary-post .post {
+    background: #FFFFFF;
+box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+height: 270px;
+}

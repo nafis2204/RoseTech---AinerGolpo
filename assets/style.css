@@ -16,3 +16,13 @@
 .nav-item a {
     text-transform: uppercase;
 }
+
+.card-body h5 {
+    font-size: 24px;
+    color: white;
+}
+
+.card {
+    border: 1px solid white;
+    border-radius: 10px;
+}

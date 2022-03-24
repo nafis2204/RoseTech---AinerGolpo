@@ -31,5 +31,18 @@
     background: #FFFFFF;
 box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.25);
 border-radius: 10px;
-height: 270px;
+height: 300px;
+}
+
+.post-container {
+    display: flex;
+    height: 130px;
+}
+
+.text-justified{
+    text-align: justify;
+}
+
+.post-link {
+    color: #C21940;
 }

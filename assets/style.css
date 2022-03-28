@@ -64,6 +64,16 @@ height: 300px;
     color: #C21940;
 }
 
+.small-post-title {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.small-post-title:hover {
+    color: #C21940;
+}
+
 
 .recent-posts .full-post {
     background: #FFFFFF;
@@ -99,7 +109,7 @@ border-radius: 10px;
 
 .footer .footer-text {
     position: relative;
-    top: 65%;
+    top: 10%;
     color: white;
 }
 
@@ -133,4 +143,10 @@ border-radius: 10px;
     .post-desc {
         margin-left: 16px;
     }
+}
+
+/* example */
+.space {
+    height: 72px;
+    background: white;
 }
